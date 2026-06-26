@@ -1,0 +1,5 @@
+Rode no terminal ou powershell: pip install InquirerPy
+
+caso continue dando erro Rode: pip install inquirer
+
+caso persista, verifique se o python esta instalado. (python --version)

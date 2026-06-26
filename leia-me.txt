@@ -1,1 +1,0 @@
-execute o bat, ele ja faz tudo por você, mas se vc n tiver o python instalado, trate o de baixar.
